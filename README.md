@@ -2,7 +2,7 @@
 
 I'm Michael, a passionate developer always looking to build cool stuff! 
 
-![Cool Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZxOG9ybXU1c2MxMmliNzA4N2x5b2dkYTc4NXdwMmt2bWZxMGd0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n0xHORz5gp904/giphy.gif)
+![Cool Animation]([https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZxOG9ybXU1c2MxMmliNzA4N2x5b2dkYTc4NXdwMmt2bWZxMGd0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n0xHORz5gp904/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXAydWEzZ2ptd21tZjNmcXNvNXB4N2dxNWlmNWU5Znd2ODA1Mnh3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0JLY5yxz1hQ2ASNa/giphy.gif))
 
 <!--
 **CondensedMilkMagi/CondensedMilkMagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
