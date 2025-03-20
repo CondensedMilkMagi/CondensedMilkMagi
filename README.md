@@ -6,7 +6,7 @@ I’m Michael, and I’m here to sprinkle some wholesome goodness and clean code
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CondensedMilkMagi&layout=compact&theme=radical)
 
-![Michael's Activity Graph](https://activity-graph.herokuapp.com/graph?username=CondensedMilkMagi&theme=react-dark)
+
 
 <!--
 **CondensedMilkMagi/CondensedMilkMagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
